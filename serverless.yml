@@ -1,5 +1,6 @@
-service: aws-node
-frameworkVersion: '3'
+service: test
+app: aws-node
+frameworkVersion: "3"
 
 provider:
   name: aws
